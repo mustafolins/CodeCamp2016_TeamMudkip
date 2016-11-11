@@ -11,9 +11,8 @@
   <objects name="objects">
     <object>objects\empty</object>
     <object>objects\obj_empty2</object>
-    <object>objects\Energy</object>
-    <object>objects\Money</object>
     <object>objects\Influence</object>
+    <object>objects\Money</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
